@@ -1,3 +1,5 @@
+# https://snakify.org
+
 # Dodatni info
 
 * Virtual environment (venv)
@@ -11,3 +13,7 @@
 * Flask templates
 * BOOTSTRAP !!!!!
 * Github README.md
+
+# Ustvari stran podobno https://urosjarc.com
+
+# 
